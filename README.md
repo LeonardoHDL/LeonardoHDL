@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+I'm Leonardo Hernandez 👽. An undergraduate student of Neurosciences at UNAM-Mexico
+I'm currently interested in working with ML algorithms applied to healthcare sciences ❤️‍🩹
+how to reach me? 💬: leo.qro@comunidad.unam.mx
 
 <!--
 **LeonardoHDL/LeonardoHDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
